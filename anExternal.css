@@ -16,8 +16,9 @@ p {
 
 img {
   border-radius: 25px;
-  background: blue;
+  background: greenyellow;
   padding: 20px;
-  width: 200px;
-  height: 150px;
+  width: 1000x;
+  height: 500px;
+  float: right;
 }
