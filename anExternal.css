@@ -1,0 +1,23 @@
+span {
+    float: left;
+    width: 0.7em;
+    font-size: 400%;
+    font-family: impact;
+    line-height: 80%;
+    color: coral;
+    
+}
+
+p {
+    font-size: 1em;
+    color: black;
+    font-family: impact;
+}
+
+img {
+  border-radius: 25px;
+  background: blue;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
