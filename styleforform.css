@@ -1,0 +1,13 @@
+html {
+    height: 100%;
+  }
+  body {
+    margin-left:10px;
+    padding:0;
+    font-family: sans-serif;
+    background: linear-gradient(#141e30, #243b55);
+    color: coral;
+  }
+  
+
+  
